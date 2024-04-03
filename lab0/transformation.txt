@@ -1,0 +1,19 @@
+data2:
+
+title -> Название
+
+genres -> Жанр
+
+authors -> Автор
+
+year -> Год
+
+data1:
+
+BookTitle -> Название
+
+Genre -> Жанр
+
+Author -> Автор
+
+Year -> Год
