@@ -1,0 +1,56 @@
+[
+Целевая схема:
+{
+  Price: Integer,
+  Date: date,
+  Geo_lat: Integer,
+  Geo_lon: Integer,
+  Building_type: String
+}
+]
+
+data1:
+
+date -> Date
+
+price -> Price
+
+level -> -
+
+levels -> -
+
+rooms -> -
+
+area -> -
+
+kitchen_area -> -
+
+geo_lat -> Geo_lat
+
+geo_lon -> Geo_lon
+
+building_type -> Building_type
+
+
+
+data2:
+
+price -> Price
+
+date -> Date
+
+time -> -
+
+geo_lat -> Geo_lat
+
+geo_lon -> Geo_lon
+
+region -> 
+
+building_type -> Building_type
+
+level -> -
+
+levels -> -
+
+rooms -> -
